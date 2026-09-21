@@ -134,5 +134,4 @@ telegram_response.raise_for_status()
 
 print("Telegram 通知發送成功！")
 print(message)
-```
 
